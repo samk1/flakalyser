@@ -1,4 +1,5 @@
 require "bundler/setup"
+require "pry"
 require "flakalyser"
 
 RSpec.configure do |config|
